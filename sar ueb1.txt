@@ -1,0 +1,4 @@
+Datenakquisition
+
+Die Daten werden von Copernicus Browser downgeloadet. Es werden zwei Level-1 GRD Szenen mit der Polarisation VV+VH und dem Product Type IW (Interferometric Wide Swath) für den 7.06.2018
+sowie für den 07.04.2025 ausgewählt und gedownloadet.
