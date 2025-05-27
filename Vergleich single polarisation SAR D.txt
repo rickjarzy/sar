@@ -1,0 +1,8 @@
+Vergleich single polarisation SAR Daten zu voll polarisierten SAR Daten
+
+Single Polarisation
+Radarsignale werden entweder horizontal (H) oder vertikal (V) gesendet und empfangen, z.B. HH oder VV. Diese Daten liefern nur Infos über die Rückstreuintensität (Backscatter) in einer einzelnen Polarisation.
+
+Vollpolarisation - PolSAR Daten
+hier wird gleichzeitig in horizontaler und vertikaler Polarisation gesendet und empfangen. Dadurch lässt sich eine vollständige Streumatrix (Kohärenzmatrix) berechnen. Damit lassen sich Streueigenschaften wie Oberflächenrauigkeit, Orientierung von Objekten oder Vegetationstypen charakterisieren.
+
